@@ -6,7 +6,7 @@
 #include <string>
 using namespace std;
 
-const bool cnst = 1;
+const bool cnst = 1, cnst2 = 0;
 
 int main()
 {
