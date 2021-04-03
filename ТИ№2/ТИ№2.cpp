@@ -6,6 +6,8 @@
 #include <string>
 using namespace std;
 
+const bool cnst = 0;
+
 int main()
 {
 	system("chcp 1251");
